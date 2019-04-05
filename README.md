@@ -1,11 +1,13 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Babelen
+Project team: Bradley, Juda, Justin, Joran, Floris, Lotti, Kate
 
 Platform:
-[jullie platfom]
+Mobile
 
 ### Korte omschrijving van de game
-...
+In a village called Babel the people decided to build a tower towards heaven and make a name for themselves.
+God wasn’t on-board with that idea and made sure everybody spoke in different tongues. Because of this, chaos broke loose.
+So one citizen decided to run up the tower to ask god for forgiveness. To accomplish this the citizen needs to fight his enemies and dodge obstacles to reach checkpoints so that he could build to reach the top.
 
 ---
 #### Producten Werkproces 1
@@ -15,7 +17,7 @@ Platform:
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
-   
+
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
@@ -23,7 +25,7 @@ Platform:
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 |<img width=500/>|<img width=300/>|
-   
+
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
@@ -34,11 +36,10 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Backlog]: <https://trello.com/b/mT5J1Lyx/mythe-main>
+   [Logboek]: <#https://docs.google.com/spreadsheets/d/1B-DbonBlKbj2CZoGWYCquxQ7cTIP1OIGHRmGootlhRI/edit#gid=0>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
-   
