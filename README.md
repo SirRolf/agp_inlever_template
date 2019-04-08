@@ -31,7 +31,7 @@ So one citizen decided to run up the tower to ask god for forgiveness. To accomp
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | N.V.T.
 | Sprint review verslagen (pdf)         | N.V.T.
-| Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype  | [Prototype] Doet het niet doordat het geen mobile build is
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | N.V.T.
 |<img width=500/>|<img width=300/>|
