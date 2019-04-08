@@ -22,15 +22,15 @@ So one citizen decided to run up the tower to ask god for forgiveness. To accomp
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)                      | N.V.T.
 | Logboek (pdf)                                             | [Logboek]
 |<img width=500/>|<img width=300/>|
 
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]
+| Sprint retrospective verslagen (pdf)  | N.V.T.
+| Sprint review verslagen (pdf)         | N.V.T.
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | N.V.T.
