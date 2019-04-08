@@ -41,5 +41,5 @@ So one citizen decided to run up the tower to ask god for forgiveness. To accomp
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <http://florisprojecten.nl/site/bewijs/bewijzenmap/periode2.3/Mythe2019/index.html>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
