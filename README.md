@@ -33,7 +33,7 @@ So one citizen decided to run up the tower to ask god for forgiveness. To accomp
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
-| Asset planning (pdf)                  | [AssetPlanning]
+| Asset planning (pdf)                  | N.V.T.
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/mT5J1Lyx/mythe-main>
