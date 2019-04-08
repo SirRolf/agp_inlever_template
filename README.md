@@ -37,7 +37,7 @@ So one citizen decided to run up the tower to ask god for forgiveness. To accomp
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/mT5J1Lyx/mythe-main>
-   [Logboek]: <#https://docs.google.com/spreadsheets/d/1B-DbonBlKbj2CZoGWYCquxQ7cTIP1OIGHRmGootlhRI/edit#gid=0>
+   [Logboek]: <https://docs.google.com/spreadsheets/d/1B-DbonBlKbj2CZoGWYCquxQ7cTIP1OIGHRmGootlhRI/edit#gid=0>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
